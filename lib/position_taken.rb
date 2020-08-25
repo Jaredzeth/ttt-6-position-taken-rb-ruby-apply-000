@@ -1,3 +1,3 @@
 # code your #position_taken? method here!
-def position_taken(numbers,letters)
+def position_taken()
 end
